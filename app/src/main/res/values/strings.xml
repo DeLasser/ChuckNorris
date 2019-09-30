@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChuckNorris</string>
+    <string name="fact_label">Fact about %1$s</string>
+</resources>
